@@ -1,0 +1,11 @@
+product_id,product_name,category,shelf_life_days,standard_cost,safety_stock,reorder_point
+P001,Milk,Perishable,7,1.2,50,100
+P002,Bread,Perishable,5,1.0,40,80
+P003,Eggs,Perishable,14,0.15,80,150
+P004,Apple,Perishable,10,0.5,60,100
+P005,Banana,Perishable,7,0.4,60,100
+P006,Chicken,Perishable,10,3.5,30,60
+P007,Rice,Non-Perishable,365,1.0,200,400
+P008,Pasta,Non-Perishable,365,0.8,150,300
+P009,Cereal,Non-Perishable,365,2.2,120,250
+P010,Soda,Non-Perishable,180,0.6,300,600

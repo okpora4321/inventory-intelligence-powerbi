@@ -1,0 +1,4 @@
+supplier_id,supplier_name,lead_time_days,rating
+S01,Supplier_1,7,3.67
+S02,Supplier_2,7,3.91
+S03,Supplier_3,3,3.71
